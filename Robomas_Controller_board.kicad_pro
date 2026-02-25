@@ -507,7 +507,7 @@
       "plot": "garber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Robomas_Controller_board.step",
       "svg": "",
       "vrml": ""
     },
